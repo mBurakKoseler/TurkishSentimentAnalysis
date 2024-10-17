@@ -13,3 +13,6 @@ Sonrasında, modellerin etiketlendirme sürelerinin ölçülmesi amacıyla farkl
 
 
 ![timeComprasion](https://github.com/user-attachments/assets/f8b84847-d3cf-4d47-9c16-90c00f8da770)
+
+Hız ölçümleri sonucunda 2 model arasında çok düşük süre farkları gözlemlenmiştir ve seçimde asıl baz alınacak faktör modellerin etiketlemeleri olmuştur. Yaklaşık 100 soru üzerinden yapılan kıyasta 2 model de olumlu ve olumsuz cümlelerde aynı etiketi benzer oranlarda vermiştir. Nötr cümleler üzerinde kıyaslama yaparken birinci model çoğu cümlenin nötr olduğunu tespit edebilmiş lakin ikinci model nötr cümlelerin bazılarına yüzde 50 oranla olumlu ve olumsuz etiketi koymuş. Bu durum normalde işe yarayabilecek şekilde kullanılabilir lakin bazı nötr cümlelerde ise yüzde 80 oranla olumlu ve olumsuz tespiti yapmıştır. Bu da konuşmanın geneli skorlandırılıp sonuçlandırılırken soruna sebep olabilir. Bu yüzden çağrı merkezlerinde kullanılmak üzere birinci modelin daha uygun olduğu düşünülmüştür.
+( saribasmetehan/bert-base-turkish-sentiment-analysis )
