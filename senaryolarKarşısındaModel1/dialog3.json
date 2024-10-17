@@ -1,0 +1,84 @@
+{
+    "dialog": [
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Alo, burası teknik destek. Size nasıl yardımcı olabilirim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Merhaba, telefonum bozuldu sanırım. Bir türlü açılmıyor, ne yapacağım şimdi?",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Anladım. Ne zamandan beri bu sorunu yaşıyorsunuz?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Dün gece bir güncelleme yaptıktan sonra oldu, sabah bir baktım telefon açılmıyor.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Güncellemeden sonra bu tür problemler yaşanabiliyor. Telefonunuzu şarj edip tekrar başlattınız mı?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Evet, şarj ettim ama yine de bir şey olmadı.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Anladım. Telefonu kapatıp güç tuşuna ve ses açma tuşuna birlikte basarak tekrar başlatmayı dener misiniz? Böylece recovery moduna geçebiliriz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam, deniyorum... Olmuyor, hiçbir tepki vermiyor.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Bu durumda, telefonunuzu servise göndermek gerekebilir. Garanti kapsamında mısınız?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Evet, daha 6 ay oldu alalı.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Harika. Size en yakın yetkili servisi yönlendirebiliriz, cihazınızı oraya götürebilirsiniz. Ayrıca, önemli dosyalarınız varsa yedeklemeniz iyi olur.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Keşke yedekleme yapabilseydim ama açılmadığı için yapamıyorum.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Maalesef, bu durumda verileri kurtarmak zor olabilir. Ancak servis size bu konuda da yardımcı olacaktır.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Anladım, servise gitmem gerekecek galiba. Teşekkür ederim yardımınız için.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Rica ederim. Herhangi bir sorun olursa tekrar arayabilirsiniz. İyi günler dilerim.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Teşekkürler, size de iyi günler.",
+            "emotion": "olumlu"
+        }
+    ]
+}

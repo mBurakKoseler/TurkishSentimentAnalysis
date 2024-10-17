@@ -1,0 +1,69 @@
+{
+    "dialog": [
+        {
+            "speaker": "Tadilat Firması Temsilcisi",
+            "sentence": "Merhaba, Y Tadilat Firması. Size nasıl yardımcı olabilirim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Merhaba, evimin tadilatını siz yapmıştınız ama birkaç sorun var. Bazı işler düzgün yapılmamış.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Tadilat Firması Temsilcisi",
+            "sentence": "Hangi konularda sorun yaşıyorsunuz? Hemen yardımcı olalım.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Mutfak tezgahının montajı eğri olmuş, dolap kapakları da düzgün kapanmıyor.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Tadilat Firması Temsilcisi",
+            "sentence": "Bu durumu anladığım için üzgünüm. En kısa sürede bir ekip yönlendirelim ve düzeltelim.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Açıkçası, bu tür sorunlar beklemiyordum. Bir de banyo fayanslarının bazıları çatlamış. Onları da fark ettim.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Tadilat Firması Temsilcisi",
+            "sentence": "Bu ciddi bir durum. Ekiplerimiz bu tür sorunları hızla çözebilir. Fayanslar için ek bir işlem gerekecek, ancak maliyet konusunda endişelenmeyin.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam ama ne kadar sürecek? Evde misafir ağırlamam gerekiyor ve işler hala bitmedi.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Tadilat Firması Temsilcisi",
+            "sentence": "Planımızda bu sorunların çözümü yaklaşık iki gün sürecek. Size en hızlı şekilde yardımcı olacağız.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "İki gün fazla uzun gibi ama başka çarem yok. Umarım bir daha böyle bir şey yaşamam.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Tadilat Firması Temsilcisi",
+            "sentence": "Anlayışınız için teşekkür ederiz. Sorunları tamamen çözmek için elimizden geleni yapacağız. Memnuniyetiniz bizim için önemli.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Teşekkür ederim, umarım her şey yolunda gider.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Tadilat Firması Temsilcisi",
+            "sentence": "Rica ederiz, her şey yolunda gidecek. İyi günler dilerim.",
+            "emotion": "olumlu"
+        }
+    ]
+}

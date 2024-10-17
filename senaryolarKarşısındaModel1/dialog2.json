@@ -1,0 +1,99 @@
+{
+    "dialog": [
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Merhaba, ben Elif, müşteri hizmetleri temsilcisi. Size nasıl yardımcı olabilirim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Merhaba elif hanım, iyi günler. Öncelikle müşteri hizmetlerine bu kadar kısa sürede ulaşabildiğime memnun oldum.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Efendim hızlı bir şekilde ulaşabildiğinize sevindim, öncelikle size hitap edebilmek için isminizi öğrenebilir miyim?",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "İsmim Ahmet ve malesef yeni aldığım telefon konusunda bir sorun yaşıyorum.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Ahmet Bey yaşadığınız sorunu açıklayabilir misiniz acaba?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tabi şu şekilde açıklayayım telefon sürekli SİM kartı tanınmıyor hatası veriyor ve bir türlü düzeltemedim.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Bunu duyduğuma üzüldüm Ahmet Bey. Hemen yardımcı olabilmek için sorununuzu çözmeye çalışalım. Hangi modeli kullandığınızı öğrenebilir miyim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Telefonum Samsung Galaxy S23.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Teşekkür ederim Ahmet Bey. Sim kartınızın doğru şekilde takıldığından emin misiniz?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Evet, sim kartı doğru yerleştirdim ama yine de tanımıyor.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Anladım. Şimdi sim kartınızı başka bir telefonda deneyebilir misiniz? Böylece sorunun telefonunuzda mı yoksa sim kartta mı olduğunu anlayabiliriz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Deneyeceğim ama diğer telefonum eski. Yine de bir deneyelim.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Tamam Ahmet Bey, bekliyorum. Eğer sim kart başka telefonda çalışıyorsa, sorun telefonunuzda olabilir.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Sim kart eski telefonda çalışıyor. Yani sorun yeni telefonumda.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Bu durumda, telefonunuzu fabrika ayarlarına döndürmeyi deneyelim. Ama öncelikle verilerinizi yedeklemeyi unutmayın.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam, bunu yapacağım. umarım her şey düzelir.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Umarım düzelir Ahmet Bey. Eğer sorun devam ederse, garanti kapsamına alarak teknik servise yönlendirebiliriz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Evet, bu iyi bir fikir. İlgilendiğiniz için teşekkür ederim, Elif Hanım. İyi günler!",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "İyi günler dilerim Ahmet Bey! Her zaman buradayız, görüşmek üzere.",
+            "emotion": "olumlu"
+        }
+    ]
+}

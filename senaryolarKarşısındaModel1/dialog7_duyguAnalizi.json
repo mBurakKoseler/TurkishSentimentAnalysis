@@ -1,0 +1,112 @@
+{
+    "dialog": [
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Merhaba, X Restoran'a hoş geldiniz. Size nasıl yardımcı olabilirim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Merhaba, bu akşam için bir masa ayırtmak istiyorum. Saat 19:00'da gelmeyi planlıyorum.",
+            "emotion": "olumlu",
+            "detectedEmotion": "Olumlu",
+            "score": 0.99
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Tabii ki! Kaç kişilik bir rezervasyon yapmamı istersiniz?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Dört kişilik olacak. Eşim ve iki arkadaşım gelecek.",
+            "emotion": "nötr",
+            "detectedEmotion": "Nötr",
+            "score": 1.0
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Harika! Saat 19:00'da dört kişilik bir masa ayırdım. İsmimizi alabilir miyim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tabii, Ahmet Atabey.",
+            "emotion": "nötr",
+            "detectedEmotion": "Nötr",
+            "score": 1.0
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Teşekkürler Ahmet Bey. Rezervasyonunuz kaydedildi. Ayrıca, özel bir isteğiniz var mı?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Aslında bir doğum günü kutlaması yapacağız. Eğer mümkünse masa süslemesi olabilir mi?",
+            "emotion": "olumlu",
+            "detectedEmotion": "Olumlu",
+            "score": 0.97
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Tabii ki! Doğum günü kutlaması için masa süslemesi yapacağız. Sizi özel bir şekilde karşılayacağız.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Harika, ama daha önce böyle bir şey yaşamadım. Umarım her şey yolunda gider.",
+            "emotion": "olumlu",
+            "detectedEmotion": "Olumlu",
+            "score": 0.99
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Bunu sağlamak için elimizden gelenin en iyisini yapacağız. İsterseniz, doğum günü pastası da sipariş edebiliriz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Evet, bir doğum günü pastası sipariş edelim lütfen. Ama umarım son dakika değişiklikleri olmaz.",
+            "emotion": "olumsuz",
+            "detectedEmotion": "Olumlu",
+            "score": 0.98
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Ne güzel! Kaç kişilik pasta sipariş etmemizi istersiniz?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Dört kişilik yeterli olur. Farklı bir tat önerir misiniz?",
+            "emotion": "nötr",
+            "detectedEmotion": "Olumlu",
+            "score": 0.99
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Çikolatalı pastamız çok beğeniliyor, onu öneririm. Nasıl istersiniz?",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam, çikolatalı pasta sipariş edelim. Ama geçen seferki gibi bir sorun olursa çok üzülürüm.",
+            "emotion": "olumsuz",
+            "detectedEmotion": "Olumsuz",
+            "score": 0.95
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Rica ederim, Ahmet. Rezervasyonunuz başarıyla yapıldı. İyi bir akşam geçirmenizi dilerim!",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Teşekkürler, ama umarım her şey planladığımız gibi gider. Kolay gelsin.",
+            "emotion": "olumlu",
+            "detectedEmotion": "Olumlu",
+            "score": 0.98
+        }
+    ]
+}
