@@ -1,0 +1,88 @@
+{
+    "dialog": [
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Merhaba, X Online Alışveriş Mağazası. Size nasıl yardımcı olabilirim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Merhaba, geçen hafta bir mont siparişi verdim ama istediğim model değil, yanlış ürün göndermişsiniz.",
+            "emotion": "olumsuz",
+            "detectedEmotion": "Olumsuz",
+            "score": 0.99
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Böyle bir sorun yaşadığınız için üzgünüm. Sipariş numaranızı alabilir miyim, hemen kontrol edeyim.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tabii, sipariş numaram 12345678. Ama lütfen bu sorunu hızlıca çözün, iade işlemleriyle uğraşmak istemiyorum.",
+            "emotion": "olumsuz",
+            "detectedEmotion": "Olumlu",
+            "score": 0.99
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Anlayışınız için teşekkür ederim, siparişinizi hemen kontrol ediyorum. Görünüşe göre yanlış ürün gönderilmiş. Ürünü geri göndermeniz gerekecek, size ücretsiz iade kargo kodu göndereceğim.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Peki, bu geri gönderme işlemi ne kadar sürecek? Yeniden beklemek istemiyorum.",
+            "emotion": "nötr",
+            "detectedEmotion": "Nötr",
+            "score": 0.86
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "İade ürün elimize ulaştığında, doğru ürünü hemen size göndereceğiz. Süreç genelde 3-5 iş günü sürüyor.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Bu kadar uzun sürmemesi gerekiyor. Acilen ihtiyacım vardı, mağdur oldum.",
+            "emotion": "olumsuz",
+            "detectedEmotion": "Olumsuz",
+            "score": 0.99
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Üzgünüm, elimizden geleni yapıyoruz. İsterseniz acil gönderim talep edebiliriz, böylece ürün daha hızlı size ulaşabilir.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Acil gönderim iyi olur, ama yine de çok zaman kaybettim.",
+            "emotion": "olumsuz",
+            "detectedEmotion": "Olumsuz",
+            "score": 0.98
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Anlayışınız için teşekkür ederiz. Acil gönderim talebinizi aldık. Ürün elimize ulaşır ulaşmaz hızlıca yeni ürünü size göndereceğiz.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam, umarım bir daha böyle bir şey olmaz. Teşekkürler.",
+            "emotion": "nötr",
+            "detectedEmotion": "Olumlu",
+            "score": 0.99
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Tekrar özür dileriz. Yardımcı olabileceğimiz başka bir konu olursa lütfen bizimle iletişime geçin.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam, teşekkür ederim.",
+            "emotion": "olumlu",
+            "detectedEmotion": "Olumlu",
+            "score": 0.93
+        }
+    ]
+}

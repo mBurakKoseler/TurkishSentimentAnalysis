@@ -1,0 +1,84 @@
+{
+    "dialog": [
+        {
+            "speaker": "Müşteri",
+            "sentence": "Merhaba, benimle ilgilenilmesi için yaklaşık 20 dakikadır bekliyorum. Müşterinize verdiğiniz değer bu kadar mı?",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Merhaba,geçici yoğunluk sebebiyle beklettiğimiz için özür dileriz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Sorunum acil, ama size ancak ulaşabildim. Bu kadar kötü bir hizmet beklemiyordum.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Anlıyorum efendim, bu endişe verici bir durum. Size yardımcı olmaya çalışacağım. Hangi sorunu yaşıyorsunuz?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "İnternet bağlantım sürekli kopuyor ve işimi yapamıyorum.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Efendim sorunuzu çözmek için birkaç bilgiye ihtiyacım var. Öncelikle modem modeliniz nedir acaba?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Modemim TP-Link.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Teşekkür ederim. Şimdi bazı ayarları kontrol ediyorum.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam, umarım bu sorunu çözebiliriz. Bu benim için çok önemli.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Modeminizde bir sorun yok ancak bölgedeki altyapıda bir sorun tespit ettim. İlgili birimleri sorunu çözmesi için yönlendiriyorum.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Bu durumda ne zaman düzelmesini bekleyebilirim? Tahmininiz var mı?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Genellikle, bu tür durumlar 1-2 saat içinde çözülüyor. Takip edeceğim ve size bilgi vereceğim. Eğer isterseniz, bana ulaşabileceğiniz bir telefon numarası bırakabilirsiniz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Numaramı bıraktım, lütfen beni haberdar etmeyi unutmayın.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Numaranızı aldım beyefendi. Sorun çözüldüğünde tarafınıza bir bilgilendirme mesajı ileteceğiz. Size daha iyi hizmet verebilmek için her zaman buradayız. Yardımcı olabileceğim başka bir konu var mı?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "İlgilendiğiniz için teşekkür ederim. Şu an için yok, teşekkürler. İyi günler!",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "İyi günler dilerim! Görüşmek üzere.",
+            "emotion": "olumlu"
+        }
+    ]
+}

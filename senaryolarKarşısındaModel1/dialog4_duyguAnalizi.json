@@ -1,0 +1,98 @@
+{
+    "dialog": [
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Merhaba, kargo müşteri hizmetleri. Size nasıl yardımcı olabilirim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Merhaba, kargom hala elime ulaşmadı. Bir sorun mu var acaba?",
+            "emotion": "olumsuz",
+            "detectedEmotion": "Olumsuz",
+            "score": 0.82
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Anlayabiliyorum, kargo takip numaranızı paylaşabilir misiniz? Kontrol edelim.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tabii, takip numaram: 987654321.",
+            "emotion": "nötr",
+            "detectedEmotion": "Olumlu",
+            "score": 0.96
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Teşekkür ederim. Bir saniye, hemen kontrol ediyorum.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Maalesef, kargonuz teslimat sürecinde bir gecikme yaşamış. Şu an bulunduğu lokasyonu görebiliyorum.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Gecikme mi? Daha önce böyle bir şey yaşamamıştım. Ne zaman elime ulaşır peki?",
+            "emotion": "olumsuz",
+            "detectedEmotion": "Olumlu",
+            "score": 0.98
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Tahmini olarak iki gün içinde size teslim edilecek görünüyor. Ekstra bir kontrol yapmamı ister misiniz?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "İki gün mü? Beklediğimden uzun. Eğer bir sorun çıkarsa ne yapacağım?",
+            "emotion": "olumsuz",
+            "detectedEmotion": "Olumlu",
+            "score": 0.63
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Eğer herhangi bir sorun olursa, size en kısa sürede bilgi vereceğiz ve gerektiğinde tazminat prosedürünü başlatabiliriz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam, anladım ama umarım bir şey çıkmaz. Bu teslimat benim için çok önemliydi.",
+            "emotion": "nötr",
+            "detectedEmotion": "Olumlu",
+            "score": 0.89
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Endişenizi anlıyorum, elimizden geleni yapacağız. Bu tür gecikmeler nadiren yaşanıyor. Kargonuz ulaştığında bildirim alacaksınız.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Peki, teşekkür ederim bilgilendirme için.",
+            "emotion": "nötr",
+            "detectedEmotion": "Olumlu",
+            "score": 0.9
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Rica ederim, başka bir sorunuz olursa bizi tekrar arayabilirsiniz.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Teşekkür ederim. İyi günler dilerim.",
+            "emotion": "olumlu",
+            "detectedEmotion": "Olumlu",
+            "score": 0.99
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Size de iyi günler! Görüşmek üzere.",
+            "emotion": "olumlu"
+        }
+    ]
+}

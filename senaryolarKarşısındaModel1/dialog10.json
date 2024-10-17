@@ -1,0 +1,99 @@
+{
+    "dialog": [
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Merhaba, XYZ Bankası müşteri hizmetleri. Size nasıl yardımcı olabilirim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Merhaba, hesabımda garip bir işlem fark ettim. 500 TL'lik bir ödeme yapılmış, ama ben böyle bir ödeme yapmadım. Bu nedir?",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Üzgünüm, bu durum sizi rahatsız etmiş olabilir. Hemen işlemlerinizi kontrol ediyorum. Hangi tarih ve saatte bu işlemi gördünüz?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Bu sabah saat 10 gibi, telefonuma da mesaj geldi. Ama ben o saatte hiçbir işlem yapmadım.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Anladım, kontrol ediyorum... Şu an hesabınıza baktım. Evet, belirtilen saatte 500 TL’lik bir işlem görünmekte. Kartınızı kullanmış olabilir misiniz?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Hayır, kartım hep bende. Son birkaç gündür de hiç kullanmadım.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Anlıyorum, bu durumda kart bilgileriniz çalınmış olabilir. Kartınızı hemen geçici olarak bloke edeceğim. Daha önce böyle bir sorun yaşamış mıydınız?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Hayır, ilk defa başıma geliyor. Peki şimdi ne olacak? Parayı geri alabilecek miyim?",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Endişelenmeyin, bu tür işlemler için itiraz sürecimiz var. Şimdi sizin adınıza bir inceleme başlatacağım. İşlem geçersiz sayılırsa paranız size geri iade edilecek.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "İnceleme ne kadar sürer peki? Paranın iadesi için uzun süre beklemek istemiyorum.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Genellikle incelemeler 3 ila 5 iş günü sürüyor. Bu süre zarfında kartınız tamamen bloke edilecek ve size yeni bir kart gönderilecek.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Peki yeni kart ne zaman elime ulaşır? Şu anda kredi kartımı kullanmam gerekiyor.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Yeni kartınız en geç 7 iş günü içinde size ulaşacaktır. Kartınızın hızlı teslimatını talep edebilirim, bu durumda daha erken de elinizde olabilir.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Evet, lütfen hızlı teslimat olsun. Böyle bir sorunun başıma gelmesi gerçekten can sıkıcı.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Anlayışınızı takdir ediyorum. Kartınız hızlı teslimatla gönderilecektir. Ayrıca şüpheli işlem için de gerekli incelemeyi başlatmış bulunuyorum.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam, teşekkür ederim. Umarım param geri gelir. Bir daha böyle bir sorunla karşılaşmam değil mi?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Şu an için kartınızı bloke ettik, bu tür sorunların tekrarlanmasını önlemek adına güvenlik önlemleri aldık. Ancak online alışveriş yaparken dikkatli olmanızı öneririm.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Haklısınız, online alışveriş yapıyorum genellikle. Bundan sonra daha dikkatli olacağım. Teşekkür ederim yardımlarınız için.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri Hizmetleri Temsilcisi",
+            "sentence": "Rica ederim. Başka bir sorunuz olursa her zaman bizi arayabilirsiniz. İyi günler dilerim.",
+            "emotion": "olumlu"
+        }
+    ]
+}

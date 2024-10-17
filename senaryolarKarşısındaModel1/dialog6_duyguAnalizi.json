@@ -1,0 +1,100 @@
+{
+    "dialog": [
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Merhaba, internet hizmetleri destek hattına hoş geldiniz. Size nasıl yardımcı olabilirim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Merhaba, evde internetim hiç çalışmıyor. Modemi kapatıp açtım ama düzelmedi. Ne yapmalıyım?",
+            "emotion": "olumsuz",
+            "detectedEmotion": "Olumsuz",
+            "score": 0.99
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Anladım. Size hemen yardımcı olacağım. Modem üzerindeki ışıklar şu anda ne durumda? Hepsi yanıyor mu?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Yalnızca güç ve Wi-Fi ışıkları yanıyor, internet ışığı yanmıyor.",
+            "emotion": "olumsuz",
+            "detectedEmotion": "Nötr",
+            "score": 0.99
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Tamam. Görünen o ki internet bağlantınızda bir kesinti olabilir. Bağlantıyı kontrol etmem için birkaç dakika rica ediyorum.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tabii, bekliyorum.",
+            "emotion": "nötr",
+            "detectedEmotion": "Nötr",
+            "score": 0.73
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Teşekkür ederim. Şu anda bulunduğunuz bölgedeki internet hattında kısa süreli bir kesinti yaşanıyor gibi görünüyor. Ancak tekrar kontrol edelim, modem kablolarınızın hepsi doğru takılı mı?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Evet, kontrol ettim. Kabloların hepsi sağlam görünüyor.",
+            "emotion": "nötr",
+            "detectedEmotion": "Nötr",
+            "score": 0.85
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Anladım. Peki, modem üzerindeki internet kablosunu çıkartıp tekrar takmayı deneyebilir misiniz? Bazen bu işlem bağlantıyı yenileyebilir.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam, bir saniye... Tekrar taktım ama hala internet ışığı yanmıyor.",
+            "emotion": "olumsuz",
+            "detectedEmotion": "Olumsuz",
+            "score": 0.9
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Bu durumda bölgedeki kesintinin etkisi olabilir. Teknik ekibimiz zaten bu konu üzerinde çalışıyor. Kesinti genellikle 1-2 saat içinde çözülüyor. Size haber vermemiz için kayıt oluşturayım mı?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Evet, çok iyi olur. Peki başka bir şey yapmam gerekiyor mu?",
+            "emotion": "nötr",
+            "detectedEmotion": "Olumlu",
+            "score": 0.63
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Hayır, başka bir şey yapmanıza gerek yok. Kesinti sona erdiğinde internet bağlantınız otomatik olarak gelecektir. Herhangi bir sorun yaşarsanız tekrar bize ulaşabilirsiniz.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam, umarım düzelir. Teşekkür ederim.",
+            "emotion": "olumlu",
+            "detectedEmotion": "Olumlu",
+            "score": 0.99
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Rica ederim, en kısa sürede düzelmesini umuyoruz. İyi günler dilerim.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "İyi günler, hoşça kalın.",
+            "emotion": "olumlu",
+            "detectedEmotion": "Olumlu",
+            "score": 0.99
+        }
+    ]
+}

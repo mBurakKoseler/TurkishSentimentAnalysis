@@ -1,0 +1,94 @@
+{
+    "dialog": [
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Merhaba, X Restoran'a hoş geldiniz. Size nasıl yardımcı olabilirim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Merhaba, bu akşam için bir masa ayırtmak istiyorum. Saat 19:00'da gelmeyi planlıyorum.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Tabii ki! Kaç kişilik bir rezervasyon yapmamı istersiniz?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Dört kişilik olacak. Eşim ve iki arkadaşım gelecek.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Harika! Saat 19:00'da dört kişilik bir masa ayırdım. İsmimizi alabilir miyim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tabii, benim adım Ahmet.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Teşekkürler Ahmet. Rezervasyonunuz kaydedildi. Ayrıca, özel bir isteğiniz var mı?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Aslında bir doğum günü kutlaması yapacağız. Eğer mümkünse masa süslemesi olabilir mi?",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Tabii ki! Doğum günü kutlaması için masa süslemesi yapacağız. Sizi özel bir şekilde karşılayacağız.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Harika, ama daha önce böyle bir şey yaşamadım. Umarım her şey yolunda gider.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Bunu sağlamak için elimizden gelenin en iyisini yapacağız. İsterseniz, doğum günü pastası da sipariş edebiliriz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Evet, bir doğum günü pastası sipariş edelim lütfen. Ama umarım son dakika değişiklikleri olmaz.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Ne güzel! Kaç kişilik pasta sipariş etmemizi istersiniz?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Dört kişilik yeterli olur. Farklı bir tat önerir misiniz?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Çikolatalı pastamız çok beğeniliyor, onu öneririm. Nasıl istersiniz?",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam, çikolatalı pasta sipariş edelim. Ama geçen seferki gibi bir sorun olursa çok üzülürüm.",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Restoran Yetkilisi",
+            "sentence": "Rica ederim, Ahmet. Rezervasyonunuz başarıyla yapıldı. İyi bir akşam geçirmenizi dilerim!",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Teşekkürler, ama umarım her şey planladığımız gibi gider. Sizi akşam göreceğiz!",
+            "emotion": "nötr"
+        }
+    ]
+}

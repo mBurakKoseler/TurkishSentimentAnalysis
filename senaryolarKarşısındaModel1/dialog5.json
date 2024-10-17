@@ -1,0 +1,114 @@
+{
+    "dialog": [
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Merhaba, online alışveriş müşteri hizmetleriyle bağlantıdasınız. Size nasıl yardımcı olabilirim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Merhaba, bir sipariş verdim ama şimdi iptal etmek istiyorum. Yardımcı olabilir misiniz?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Tabii ki. İptal etmek istediğiniz siparişinizin numarasını alabilir miyim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tabii, sipariş numaram 123456789. Ürünü yanlış seçtim ve hemen fark ettim. İptal edebilirsek çok iyi olur.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Teşekkür ederim, hemen kontrol ediyorum... Siparişiniz hazırlanıyor aşamasında görünüyor. Maalesef bu aşamada iptal edemiyoruz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Nasıl yani? Henüz kargoya bile verilmemişken neden iptal edilemiyor?",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Anlıyorum, siparişiniz hazırlanırken iptal işlemi yapılamıyor. Ancak siparişiniz elinize ulaştığında iade edebilirsiniz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Ama bu çok mantıksız! Daha kutulanmamış bile! Ben neden beklemek zorundayım?",
+            "emotion": "olumsuz"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Üzgünüm, bu aşamada sistemimizde iptal butonu devre dışı kalıyor. Siparişinizi teslim aldıktan sonra 14 gün içinde iade edebilir ve tam geri ödeme alabilirsiniz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Peki, iade süreci nasıl işliyor? Hemen başlatabilir miyim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Tabii, sipariş size ulaştığında hesabınıza giriş yapıp iade talebi oluşturabilirsiniz. Talebiniz onaylandıktan sonra ürünü belirttiğimiz kargo şirketine teslim etmeniz gerekecek.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam, peki kargo ücreti iade işlemi için kimden alınacak? Ben mi ödeyeceğim?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Merak etmeyin, eğer üründe bir hata veya problem yoksa iade kargosunu biz karşılıyoruz. Size herhangi bir ücret yansıtılmayacak.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Anladım, bu iyiymiş. Peki para iadesi ne kadar sürede yapılıyor?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Ürün bize ulaştıktan ve kontrol edildikten sonra, genellikle 7-10 iş günü içerisinde para iadeniz yapılır. Süreçle ilgili bir aksaklık olursa size bilgi vereceğiz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Peki, bu süreçle ilgili bilgilendirme yapıyor musunuz? Ne zaman iade işlemi başlatılıyor diye nasıl haberim olacak?",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Evet, iade talebiniz onaylandığında size bir e-posta ve SMS ile bilgilendirme yapıyoruz. Ayrıca hesabınızda da iade sürecini takip edebilirsiniz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Tamam, iyiymiş. İade süreciyle ilgili daha önce hiç sorun yaşamamıştım. Bu siparişte neden iptal edemedim hala anlamadım ama yapacak bir şey yok herhalde.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Anlıyorum, bazı müşterilerimiz bu konuda benzer geri bildirimlerde bulundu. Süreci daha kullanıcı dostu hale getirmek için sürekli çalışıyoruz.",
+            "emotion": "nötr"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Umarım bu süreçleri iyileştirirsiniz. Yardımınız için teşekkür ederim.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Çağrı Merkezi Temsilcisi",
+            "sentence": "Rica ederim, başka bir sorunuz olursa her zaman bize ulaşabilirsiniz. İyi günler dilerim.",
+            "emotion": "olumlu"
+        },
+        {
+            "speaker": "Müşteri",
+            "sentence": "Teşekkür ederim, iyi günler.",
+            "emotion": "olumlu"
+        }
+    ]
+}
