@@ -7,7 +7,7 @@ pipe_model_1 = pipeline("text-classification", model="saribasmetehan/bert-base-t
 pipe_model_2 = pipeline("text-classification", model="savasy/bert-base-turkish-sentiment-cased")
 
 # Cümleleri bir dosyadan oku
-with open('testSentences/CallCenterExampleSentences.txt', 'r', encoding='utf-8') as file:
+with open('islenmisVeriSeti.txt', 'r', encoding='utf-8') as file:
     test_sentences = [line.strip() for line in file if line.strip()]
 
 # Sonuçları saklamak için bir liste
@@ -39,4 +39,4 @@ for sentence in test_sentences:
 # Sonuçları pandas DataFrame'e dönüştür
 df = pd.DataFrame(results, columns=["Sentence", "Model 1 Label", "Model 1 Score", "Model 2 Label", "Model 2 Score"])
 # DataFrame'i noktalı virgül ayırıcı ile CSV dosyasına kaydet
-df.to_csv('model_comparison_results.csv', index=False, sep=';', encoding='utf-8-sig')
+df.to_csv('cleaned_model_comparison_results.csv', index=False, sep=';', encoding='utf-8-sig')

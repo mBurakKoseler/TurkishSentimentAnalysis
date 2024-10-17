@@ -1,0 +1,101 @@
+﻿Sentence;Model 1 Label;Model 1 Score;Model 2 Label;Model 2 Score
+bu hizmete bayıldım her şey tam istediğim gibi;Positive;1.0;positive;0.96
+i̇lgili ve hızlı destek aldım çok teşekkür ederim;Positive;1.0;positive;0.96
+sorunumu anında çözmeniz beni çok memnun etti;Positive;0.99;positive;0.56
+her şey yolunda destek ekibinize teşekkür ederim;Positive;0.99;positive;0.82
+her adımda bilgilendirildim çok teşekkür ederim;Positive;1.0;positive;0.98
+çözümünüz tam da aradığım gibiydi çok teşekkür ederim;Positive;1.0;positive;0.96
+sizden aldığım hizmet mükemmeldi tekrar teşekkürler;Positive;1.0;positive;0.96
+her şey tam istediğim gibi sonuçlandı çok teşekkürler;Positive;1.0;positive;0.97
+başvuru durumunu hızla çözdüğünüz için size minnettarım;Positive;0.99;negative;0.66
+bu kadar hızlı bir çözüm beklemiyordum çok memnun oldum;Positive;0.99;positive;0.99
+gerçekten çok yardımcı oldunuz bu kadar hızlı bir çözüm beklemiyordum çok teşekkür ederim;Positive;0.99;positive;0.98
+beni sabırla dinlediğiniz için teşekkür ederim sorunum hemen çözüldü ve çok rahatladım;Positive;0.99;positive;0.86
+bu kadar profesyonel bir destek görmek beni gerçekten çok mutlu etti hizmet kaliteniz mükemmel;Positive;0.99;positive;0.99
+sorduğum her soruya açıklayıcı cevaplar verdiniz böyle bir hizmet almak gerçekten çok sevindirici oldu;Positive;0.99;positive;0.98
+destek ekibiniz harikaydı sorumu hemen çözdüler böyle bir ilgi görmeyi beklemiyordum;Positive;0.99;positive;0.98
+her sorumu sabırla cevapladığınız için çok teşekkür ederim hizmetiniz çok kaliteli;Positive;1.0;positive;0.97
+bu kadar kısa sürede sorunumu çözdüğünüz için çok mutluyum gerçekten profesyonelsiniz;Positive;1.0;positive;0.98
+yardımlarınız sayesinde işlerim yoluna girdi çok mutlu oldum tekrar teşekkür ederim;Positive;0.99;positive;0.89
+bu kadar iyi bir hizmet aldığımı başkalarına da anlatacağım gerçekten çok memnun kaldım;Positive;1.0;positive;0.99
+çözüm odaklı olmanız beni çok mutlu etti daha önce böyle bir destek almamıştım;Positive;0.99;positive;0.99
+sorduğum her soruya ayrıntılı ve açıklayıcı cevaplar verdiğiniz için gerçekten çok teşekkür ederim bu kadar profesyonel ve hızlı bir hizmet almayı hiç beklemiyordum;Positive;0.99;positive;0.99
+i̇lgili ve hızlı bir destek aldım sorunumun çözülmesi için beni adım adım bilgilendirdiniz bu süreçte gösterdiğiniz sabır ve ilgi için teşekkür ederim;Positive;0.99;positive;0.62
+bu kadar kısa sürede geri dönüş yapmanız ve sorunu hemen çözmeniz beni gerçekten şaşırttı ve çok memnun oldum hizmet kalitenizden çok etkilendim;Positive;0.99;positive;0.96
+beni sabırla dinlediniz ve tüm süreci detaylı bir şekilde açıkladınız bu kadar profesyonel ve çözüm odaklı bir yaklaşımı görmek gerçekten çok sevindirici;Positive;0.99;positive;0.99
+her adımda sabırla yardımcı oldunuz tüm işlemlerim sorunsuz bir şekilde ilerledi böyle bir hizmet almak beni gerçekten çok mutlu etti çok teşekkür ederim;Positive;1.0;positive;0.96
+bu kadar kısa sürede sorunumun çözülmesi beni çok memnun etti sizinle her aşamada iletişimde kaldım ve her defasında net ve açıklayıcı bilgiler aldım;Positive;0.99;positive;0.92
+bu süreçte bana sağladığınız desteğin her anında çok profesyoneldiniz her aşamada beni bilgilendirdiniz ve sorunumu hızla çözdünüz tekrar teşekkür ederim;Positive;0.99;positive;0.95
+i̇lgili ve çözüm odaklı bir hizmet aldım her sorumu yanıtladınız ve sürecin her adımında beni bilgilendirdiniz hizmetiniz gerçekten takdire şayan;Positive;0.99;positive;0.98
+bu kadar hızlı ve profesyonel bir destek alacağımı hiç düşünmemiştim sorunumun çözülmesi beni çok mutlu etti işinizi gerçekten çok iyi yapıyorsunuz;Positive;0.99;positive;0.99
+her zaman böyle kaliteli bir hizmet alabilsem başka hiçbir yere başvurmam bu kadar hızlı ve etkili bir çözüm almak beni çok mutlu etti tekrar teşekkür ederim;Positive;0.99;positive;1.0
+sizi anlamakta zorlanıyorum sürekli aynı şeyleri tekrarlıyorsunuz ama sorun çözülmedi;Negative;0.99;negative;0.98
+bu kadar kez aramak zorunda kalmam çok sinir bozucu bir türlü çözüm üretemiyorsunuz;Negative;0.99;negative;1.0
+gerçekten hayal kırıklığına uğradım hala sorunum çözülmedi ve bekletiliyorum;Negative;1.0;negative;1.0
+siparişimi yanlış gönderdiniz ve şimdi de düzeltmek için neden bu kadar bekletiliyorum;Negative;0.99;negative;1.0
+bu kadar kötü bir hizmet daha önce hiç almadım sorunum çözülmüyor;Negative;1.0;negative;1.0
+çözüm yok sadece oyalıyorsunuz bu ne ya;Negative;0.99;negative;1.0
+kaç defa aramam gerekiyor neden hâlâ bir çözüm yok;Negative;0.99;negative;0.99
+gerçekten sabrım taştı bu kadar uzun sürede hâlâ bir çözüm yok;Negative;0.99;negative;1.0
+bu kadar rezalet bir hizmet aldığımı hatırlamıyorum;Negative;0.99;negative;1.0
+bir türlü derdimi anlatamıyorum neden böyle;Negative;0.92;negative;1.0
+ne yapsam olmuyor bu nasıl bir hizmet;Positive;0.99;negative;1.0
+her defasında başka bir şey söylüyorsunuz neden çözülmüyor;Negative;0.95;negative;0.98
+sürekli bekletiliyorum sorunum ne zaman çözülecek;Positive;0.97;negative;1.0
+kaç gündür arıyorum hala aynı sorunla uğraşıyorum bu nasıl iş;Positive;0.97;negative;1.0
+gerçekten çok sinirliyim bu kadar beklemek zorunda değilim;Negative;0.97;negative;1.0
+beni neden sürekli oyalıyorsunuz çözüm yok mu;Negative;0.97;negative;1.0
+beni anlamıyorsunuz bir türlü sorun çözülmüyor;Positive;0.85;negative;0.95
+bu kadar basit bir sorun için neden bu kadar zaman kaybettim;Negative;0.93;negative;1.0
+hizmetiniz tam bir fiyasko hiç memnun değilim;Negative;1.0;negative;1.0
+hep aynı şeyleri söylüyorsunuz ama sorun bir türlü çözülmüyor;Negative;0.97;negative;0.96
+neden sürekli yanlış bilgi veriyorsunuz böyle bir hizmet olmaz;Negative;0.99;negative;1.0
+bu kadar kötü bir destek almak istemezdim;Positive;0.93;negative;1.0
+hala sorunum çözülmedi kaç gündür uğraşıyorum;Negative;0.99;negative;1.0
+beni sürekli bekletip duruyorsunuz bu nasıl bir hizmet;Positive;0.98;negative;1.0
+sizinle her konuştuğumda başka bir şey duyuyorum neden çözüm bulamıyorsunuz;Negative;0.98;negative;0.75
+i̇lgilenmiyorsunuz sürekli erteliyorsunuz;Positive;0.91;negative;1.0
+yine yanlış bilgi verdiniz bu nasıl bir iş anlayışı;Positive;0.94;negative;1.0
+sorunum hala çözülmedi bu kadar zor olmamalı;Positive;0.95;negative;0.98
+gerçekten bu hizmetten hiç memnun kalmadım;Positive;0.92;negative;1.0
+bir türlü çözüm üretemiyorsunuz bu kadar da zor olmamalı;Positive;0.86;negative;1.0
+bu kadar kötü bir hizmet beklemiyordum hayal kırıklığına uğradım;Negative;1.0;negative;1.0
+bir sorunu çözmek neden bu kadar zor olabilir anlamıyorum;Negative;0.71;negative;0.99
+hizmet kaliteniz çok düşük hiç memnun değilim;Negative;1.0;negative;1.0
+i̇şlemler ne kadar sürüyor bilgi verebilir misiniz;Positive;0.98;negative;0.81
+başvuru durumu hakkında nasıl bilgi alabilirim;Positive;0.99;negative;0.77
+hangi adımları takip etmeliyim;Positive;0.99;positive;0.81
+bir sonraki adım nedir;Positive;0.99;positive;0.99
+bu hizmete nasıl erişebilirim;Positive;0.99;negative;0.94
+sistemde hangi bilgilere ulaşabilirim;Positive;0.99;negative;0.91
+i̇lgili belgeler nereden temin edilebilir;Positive;0.99;positive;0.74
+başka bir adım var mı ne yapmalıyım;Positive;0.99;negative;0.55
+bir şey daha sormak istiyorum hizmetle ilgili;Positive;0.99;negative;0.68
+daha fazla bilgi almak için nereye başvurmalıyım;Positive;0.98;positive;0.79
+bu işlem hakkında başka ne bilmem gerekiyor atlamamam gereken kritik bir detay var mı;Positive;0.98;positive;0.94
+i̇şlem süresi hakkında genel bilgi alabilir miyim tahmini bir zaman çizelgesi belirtebilir misiniz;Positive;0.97;negative;0.55
+başka hangi seçenekler mevcut yaptığınız önerilere ek olarak sunabileceğiniz alternatifler var mı;Positive;0.98;negative;0.82
+kullanıcı panelinde yapmam gereken bir şey var mı tüm ayarları ve işlemleri kontrol etmek istiyorum;Positive;0.98;positive;0.73
+bu süreç hakkında daha fazla detay alabilir miyim i̇şlemin her adımında ne yapılması gerektiğini öğrenmek istiyorum;Positive;0.99;positive;0.91
+bu konuda daha fazla seçenek var mı alternatif çözüm yolları olup olmadığını öğrenmek istiyorum;Positive;0.98;negative;0.89
+bir sonraki adım için bir şey yapmam gerekiyor mu hazırlamam gereken belgeler var mı;Positive;0.98;positive;0.75
+daha önce bilgilendirildiğim bir konu hakkında konuşmak istiyorum size iletilen bilgi ile ilgili bazı sorularım var;Positive;0.97;negative;0.94
+bu işlemle ilgili başka ne bilmem gerekiyor i̇leride sorun yaşamamak için dikkat etmem gereken bir şey var mı;Positive;0.98;positive;0.52
+hizmetle ilgili farklı seçenekler var mı diğer kullanıcıların tercih ettiği hizmet seçeneklerini öğrenmek istiyorum;Positive;0.98;negative;0.97
+i̇şlem adımlarını bana açıklayabilir misiniz hangi adımların ardından işlemi tamamlayabileceğimi öğrenmek istiyorum;Positive;0.98;positive;0.72
+bundan sonraki süreç nasıl işleyecek i̇şlem sırasında her adımda bana bilgi verecek misiniz ya da beni bilgilendirecek bir güncelleme olacak mı;Positive;0.98;positive;0.92
+çalışanlarınızla nasıl iletişime geçebilirim i̇lgili departmanla iletişim kurabileceğim bir yöntem var mı;Positive;0.98;negative;0.76
+bu konuda nasıl ilerleyeceğiz bilgi verebilir misiniz sürecin her aşamasında nasıl bir yol izleyeceğimizi açıklayabilir misiniz;Positive;0.96;positive;0.67
+başvuru durumunu nasıl kontrol edebilirim güncelleme alabileceğim bir sistem ya da size ulaşabileceğim bir kanal var mı;Positive;0.98;positive;0.51
+daha fazla bilgiye nereden ulaşabilirim i̇lgili belgeler ya da referanslar nerede bulabilirim;Positive;0.99;positive;0.8
+gelecek günlerde yeni bir bilgilendirme olacak mı i̇şlem süreci hakkında bir gelişme olduğunda bilgilendirilecek miyim;Positive;0.99;positive;0.56
+bu işlemi nasıl tamamlayabilirim yapmam gereken adımların tümünü sıralayabilir misiniz;Positive;0.98;negative;0.78
+i̇lgili departmana nasıl ulaşabilirim görüşme yapabileceğim bir yetkili kişi ya da ekip var mı;Positive;0.98;negative;0.54
+başvuru durumu hakkında nasıl bilgi alabilirim başvurumun ilerleyişini kontrol etmek için bir sistem ya da uygulama var mı;Positive;0.98;negative;0.5
+yardımcı olabileceğiniz başka seçenekler var mı hangi yollarla hizmet alabileceğimi daha detaylı açıklayabilir misiniz;Positive;0.97;negative;0.87
+başka hangi seçenekler mevcut şu an sunulan hizmet dışında başka ne gibi çözümler öneriyorsunuz;Positive;0.98;negative;0.97
+sistemdeki güncellemeleri nasıl kontrol edebilirim;Positive;0.99;negative;0.84
+hizmetinizle ilgili daha fazla bilgiye nereden ulaşabilirim;Positive;0.99;positive;0.79
+bu işlemin tamamlanması için ne kadar süre beklemeliyim;Positive;0.98;negative;0.82
+başvurum hakkında bir güncelleme alacak mıyım;Positive;0.98;negative;0.5
+sorunun çözümü için hangi belgeleri hazırlamam gerekiyor;Positive;0.97;negative;0.95
