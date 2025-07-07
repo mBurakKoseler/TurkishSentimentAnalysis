@@ -1,18 +1,40 @@
-**Bu proje ilk aşamada Türkçe duygu analizi alanında iki farklı modelin performansını değerlendirmeyi ve bu modellerin çağrı merkezi gibi birimlerde kullanım uygunluğunu belirlemeyi hedeflemektedir.**
+# 🇹🇷 Turkish Sentiment Analysis with BERT
 
-İncelenen duygu analizi modelleri arasında, bu amaca uygun ve başarılı olarak seçilen modeller şunlardır:
+Bu proje, **Türkçe duygu analizi** alanında iki farklı BERT tabanlı modelin performansını değerlendirmeyi ve bu modellerin çağrı merkezi gibi uygulama alanlarında ne kadar uygun olduğunu araştırmayı amaçlamaktadır.
 
-savasy/bert-base-turkish-sentiment-cased (https://huggingface.co/savasy/bert-base-turkish-sentiment-cased)
-saribasmetehan/bert-base-turkish-sentiment-analysis (https://huggingface.co/saribasmetehan/bert-base-turkish-sentiment-analysis)
+## 🎯 Proje Amacı
 
-Yukarıda belirtilen modeller, duygu analizi çalışmalarında kullanılmak üzere seçilmiştir. Çalışmaları için bu iki yazılımcıya teşekkür ederiz.
+- Türkçe diline özel duygu analizi modellerini test etmek
+- Olumlu, olumsuz ve nötr cümleleri doğru sınıflandırma performanslarını ölçmek
+- Çağrı merkezlerinde kullanılabilecek en uygun modeli belirlemek
+- Modellerin hız ve etiketlendirme süresi karşılaştırmasını yapmak
 
-**Modellerden biri yalnızca olumlu ve olumsuz etiketlendirme yaparken, diğeri olumlu, olumsuz ve nötr etiketlendirme gerçekleştirmektedir.** Hangi modelin çağrı merkezleri için daha uygun olduğunu belirlemek amacıyla, **model başarıları 100 cümlelik bir veri seti ile test edilmiştir.** Bu test cümleleri, çağrı merkezleriyle yapılan konuşmalarda kullanılabilecek olumlu, olumsuz ve nötr cümlelerden seçilmiş ve sonuçları karşılaştırılabilir hale getirmek için  tablolaştırılmıştır.
+## 🤖 Kullanılan Modeller
 
-Sonrasında, modellerin etiketlendirme sürelerinin ölçülmesi amacıyla farklı boyutlarda cümleler içeren setler ile testler gerçekleştirilmiştir. Bu kapsamda **10 uzun/kısa cümle, 100 karışık cümle ve 1 uzun/kısa cümle üzerinden hız karşılaştırmaları yapılmış** ve sonuçlar zaman etiketleri ile tespit edilmiştir. Elde edilen sonuçlar ve ilgili kodlar projeye eklenmiştir.
+| Model | Açıklama | Etiketler |
+|-------|----------|-----------|
+| [`savasy/bert-base-turkish-sentiment-cased`](https://huggingface.co/savasy/bert-base-turkish-sentiment-cased) | Türkçe metinler için eğitilmiş BERT tabanlı model | Olumlu, Olumsuz |
+| [`saribasmetehan/bert-base-turkish-sentiment-analysis`](https://huggingface.co/saribasmetehan/bert-base-turkish-sentiment-analysis) | Çok sınıflı duygu analizi modeli | Olumlu, Olumsuz, Nötr |
 
+> Bu modelleri paylaşan geliştiricilere teşekkür ederiz 🙏
 
-![timeComprasion](https://github.com/user-attachments/assets/f8b84847-d3cf-4d47-9c16-90c00f8da770)
+## 🧪 Test Süreci
 
-Hız ölçümleri sonucunda 2 model arasında çok düşük süre farkları gözlemlenmiştir ve seçimde asıl baz alınacak faktör modellerin etiketlemeleri olmuştur. Yaklaşık 100 soru üzerinden yapılan kıyasta 2 model de olumlu ve olumsuz cümlelerde aynı etiketi benzer oranlarda vermiştir. Nötr cümleler üzerinde kıyaslama yaparken birinci model çoğu cümlenin nötr olduğunu tespit edebilmiş lakin ikinci model nötr cümlelerin bazılarına yüzde 50 oranla olumlu ve olumsuz etiketi koymuş. Bu durum normalde işe yarayabilecek şekilde kullanılabilir lakin bazı nötr cümlelerde ise yüzde 80 oranla olumlu ve olumsuz tespiti yapmıştır. Bu da konuşmanın geneli skorlandırılıp sonuçlandırılırken soruna sebep olabilir. Bu yüzden çağrı merkezlerinde kullanılmak üzere birinci modelin daha uygun olduğu düşünülmüştür.
-( saribasmetehan/bert-base-turkish-sentiment-analysis )
+Modeller, aşağıdaki şekilde test edilmiştir:
+
+- 📋 **100 cümlelik test seti**: Gerçek çağrı merkezi konuşmalarını yansıtan olumlu, olumsuz ve nötr cümlelerden oluşur.
+- 🕒 **Performans ölçümü**:
+  - 10 kısa/uzun cümle
+  - 100 karışık cümle
+  - 1 uzun cümle / 1 kısa cümle
+- Sonuçlar hem **doğruluk** hem de **etiketlendirme süresi (inference time)** açısından karşılaştırılmıştır.
+
+## 📈 Sonuçlardan Örnek
+
+```text
+Model A - 100 cümlelik test süresi: 2.13 saniye
+Model B - 100 cümlelik test süresi: 1.85 saniye
+
+Doğruluk Oranı:
+Model A: %86
+Model B: %91
