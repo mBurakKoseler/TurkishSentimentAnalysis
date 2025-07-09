@@ -22,7 +22,7 @@ Bu proje, **Türkçe duygu analizi** alanında iki farklı BERT tabanlı modelin
 
 Modeller, aşağıdaki şekilde test edilmiştir:
 
-- 📋 **100 cümlelik test seti**: Gerçek çağrı merkezi konuşmalarını yansıtan olumlu, olumsuz ve nötr cümlelerden oluşur.
+- 📋 **100 cümlelik test seti**: Gerçek çağrı merkezi konuşmalarını yansıtan olumlu, olumsuz ve nötr cümlelerden oluşur,
 - 🕒 **Performans ölçümü**:
   - 10 kısa/uzun cümle
   - 100 karışık cümle
